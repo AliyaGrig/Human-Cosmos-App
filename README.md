@@ -8,3 +8,4 @@ The Human Cosmos App will help you to be mindful of your intentions, set and ful
 **To download application from the App Store, please, follow this link:**
 https://apps.apple.com/us/app/human-cosmos/id1530610814
 
+![Human Cosmos](https://user-images.githubusercontent.com/118197708/203827522-eeb8b92c-0067-463f-bd80-06cb8d7b8092.jpg)
