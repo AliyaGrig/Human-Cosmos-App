@@ -1,5 +1,5 @@
 # Human-Cosmos
-**Your personal AI Guide**
+##Your personal AI Guide
 
 https://user-images.githubusercontent.com/118197708/203827924-e2d5ce8c-a237-43b0-a5cb-385355566dbe.mp4
 
